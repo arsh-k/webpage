@@ -12,11 +12,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /blog/
     
   - title: "CV"
     url: /files/Arsh_Kumbhat_Resume_June_24.pdf
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Travel"
+     url: /travel/

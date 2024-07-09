@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Arsh's Webpage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Arsh Kumbhat"
 description              : &description "personal description"
