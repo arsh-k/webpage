@@ -2,21 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  - title: "Blog"
-    url: /blog/
     
   - title: "CV"
     url: /files/Arsh_Kumbhat_Resume_June_24.pdf
     
   - title: "Travel"
-     url: /travel/
+    url: /travel/
+
+  - title: "Blog"
+    url: /blog/
