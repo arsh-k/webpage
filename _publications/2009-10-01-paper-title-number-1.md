@@ -1,6 +1,6 @@
 ---
 title: "Transfer learning on physics-informed neural networks for tracking the hemodynamics in the evolving false lumen of dissected aorta"
-collection: Journal Paper
+collection: publications
 permalink: /publication/journal/1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-05-23
