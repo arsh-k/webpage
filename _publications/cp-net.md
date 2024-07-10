@@ -1,7 +1,7 @@
 ---
 title: "CP-Net: Multi-Scale Core Point Localization in Fingerprints Using Hourglass Network"
 collection: publications
-# permalink: /publication/conference/1
+permalink: /publication/conference/1
 # excerpt: ''
 date: 2023-04-19
 venue: 'International Workshop on Biometrics and Forensics'
