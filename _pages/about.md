@@ -14,7 +14,7 @@ Milestones
 ======
 - Paper on modeling hemodynamics using PINNs selected as the Cover Article of [Nexus Volume 1, Issue 2](https://www.cell.com/nexus/issue?pii=S2950-1601(24)X0003-0#fullCover) (19 June 2024)
 <p align="center">
-  <img src="https://www.cell.com/cms/asset/atypon:cms:attachmen t:img:d147e6:rev:1719507617297-12223:pii:S2950160124X00030/cover.tif.jpg"/ width="300" height="350">
+  <img src="https://www.cell.com/cms/asset/atypon:cms:attachmen t:img:d147e6:rev:1719507617297-12223:pii:S2950160124X00030/cover.tif.jpg" width="300" height="350">
 </p>
 - New Paper in Nexus - [Transfer learning on physics-informed neural networks for tracking the hemodynamics in the evolving false lumen of dissected aorta](https://doi.org/10.1016/j.ynexs.2024.100016) (23 May 2024)
 - Joined [ETH Zürich](https://ethz.ch/en.html) as Graduate Student (17 September 2023)
