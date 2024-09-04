@@ -6,7 +6,7 @@ permalink: /publication/conference/1
 date: 2023-04-19
 venue: 'International Workshop on Biometrics and Forensics'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '10.1109/IWBF57495.2023.10157521'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10157521'
 # citation: 'Mitchell Daneker, Shengze Cai, Ying Qian, Eric Myzelev, Arsh Kumbhat, He Li, Lu Lu,
 # Transfer learning on physics-informed neural networks for tracking the hemodynamics in the evolving false lumen of dissected aorta, Nexus, Volume 1, Issue 2, 2024, 100016, ISSN 2950-1601'
 ---
