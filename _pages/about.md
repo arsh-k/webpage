@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hey everyone! I am a graduate student at ETH Zürich pursuing an MSc degree in Computational Science and Engineering (specializing in Fluid Dynamics). My broad research interests are Scientific Machine Learning and Scientific Computing. 
+Hey everyone! I am a graduate student at ETH Zürich pursuing an MSc degree in Computational Science and Engineering (specializing in Fluid Dynamics). My broad research interests are Scientific Machine Learning and Scientific Computing. I also work as a Research Assistant at the [CAPS Lab](https://caps.ethz.ch/) at D-MAVT ETH Zürich.
 
-Prior to graduate school, I completed my Bachelors in Chemical Engineering at BITS Pilani, India and worked as an undergraduate research intern at the Lu Group (University of Pennsylvania). 
+Prior to graduate school, I completed my Bachelors in Chemical Engineering at BITS Pilani, India and worked as an undergraduate research intern at the [Lu Group](https://lugroup.yale.edu/) (previously at University of Pennsylvania). 
 
 
 Milestones
