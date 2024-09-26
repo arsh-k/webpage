@@ -14,6 +14,7 @@ Prior to graduate school, I completed my Bachelors in Chemical Engineering at BI
 
 Milestones
 ======
+- New Paper in Process Safety and Environmental Protection - [Predicting Nickel Catalyst Deactivation in Biogas Steam and Dry Reforming for Hydrogen Production Using Machine Learning](https://www.sciencedirect.com/science/article/pii/S095758202401139X?via%3Dihub) (16 September 2024)
 - Paper on modeling hemodynamics using PINNs selected as the Cover Article of [Nexus Volume 1, Issue 2](https://www.cell.com/nexus/issue?pii=S2950-1601(24)X0003-0#fullCover) (19 June 2024)
 <p align="center">
   <img src="\webpage\images\nexus_cover.jpg" width="250" height="300" />
