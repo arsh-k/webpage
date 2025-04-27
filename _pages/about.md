@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<meta name="google-site-verification" content="2o5tR3jxDBLb7BjWPzLmYC7YnexNoBKCNSaCgLzmz8Q" />
-
 Hey everyone! I am a graduate student at ETH Zürich pursuing a MSc degree in Computational Science and Engineering (specialization in Fluid Dynamics). I currently work as a Research Assistant at the Computational and Applied Mathematics Laboratory ([CAMLAB](https://camlab.ethz.ch/)) at SAM, ETH Zürich. My research interests include:
 
 - High-fidelity Data Generation for AI Foundation Models & Operator Learning
