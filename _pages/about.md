@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hey everyone! I am a graduate student at ETH Zürich pursuing a MSc degree in Computational Science and Engineering (specialization in Fluid Dynamics). My research interests include Computational Fluid Dynamics and  High-fidelity compressible flow data generation for AI foundation models & operator learning. I also work as a Research Assistant at the Computational and Applied Mathematics Laboratory [(CAMLAB)](https://camlab.ethz.ch/) at SAM, ETH Zürich.
+Hey everyone! I am a graduate student at ETH Zürich pursuing a MSc degree in Computational Science and Engineering (specialization in Fluid Dynamics). I currently work as a Research Assistant at the Computational and Applied Mathematics Laboratory [(CAMLAB)](https://camlab.ethz.ch/) at SAM, ETH Zürich. My research interests include:
+
+- High-fidelity data generation for AI foundation models & operator learning
+- Numerical methods for compressible flows 
 
 Prior to graduate school, I completed my Bachelors in Chemical Engineering at BITS Pilani, India and worked as an undergraduate research intern at the [Lu Group](https://lugroup.yale.edu/) (previously at University of Pennsylvania). 
 
