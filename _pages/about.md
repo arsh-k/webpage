@@ -10,13 +10,14 @@ redirect_from:
 Hey everyone! I am a graduate student at ETH Zürich pursuing a MSc degree in Computational Science and Engineering (specialization in Fluid Dynamics). I currently work as a Research Assistant at the Computational and Applied Mathematics Laboratory ([CAMLAB](https://camlab.ethz.ch/)) at SAM, ETH Zürich. My research interests include:
 
 - High-fidelity Data Generation for AI Foundation Models & Operator Learning
-- Numerical methods for Compressible Flows 
+- Numerical Methods for Compressible and Turbulent Flows (LBM, FVM)
 
 Prior to graduate school, I completed my Bachelors in Chemical Engineering at BITS Pilani, India and worked as an undergraduate research intern at the [Lu Group](https://lugroup.yale.edu/) (previously at University of Pennsylvania). 
 
 
 Milestones
 ======
+- New Paper on arXiv - [Geometry Aware Operator Transformer as an Efficient and Accurate Neural Surrogate for PDEs on Arbitrary Domains](https://arxiv.org/abs/2505.18781) (24 May 2025)
 - New Paper in Process Safety and Environmental Protection - [Predicting Nickel Catalyst Deactivation in Biogas Steam and Dry Reforming for Hydrogen Production Using Machine Learning](https://www.sciencedirect.com/science/article/pii/S095758202401139X?via%3Dihub) (16 September 2024)
 - Paper on modeling hemodynamics using PINNs selected as the Cover Article of [Nexus Volume 1, Issue 2](https://www.cell.com/nexus/issue?pii=S2950-1601(24)X0003-0#fullCover) (19 June 2024)
 <p align="center">
