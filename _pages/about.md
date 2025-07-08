@@ -18,6 +18,7 @@ Prior to graduate school, I completed my Bachelors in Chemical Engineering at BI
 Milestones
 ======
 - New Paper on arXiv - [Geometry Aware Operator Transformer as an Efficient and Accurate Neural Surrogate for PDEs on Arbitrary Domains](https://arxiv.org/abs/2505.18781) (24 May 2025)
+- Attended the [OpenLB](https://www.openlb.net/spring-school-2025/) Workshop organized by the [Lattice Boltzmann Research Group (LBRG)](https://www.lbrg.kit.edu/) in Marseille, France (19-23 May 2025) 
 - New Paper in Process Safety and Environmental Protection - [Predicting Nickel Catalyst Deactivation in Biogas Steam and Dry Reforming for Hydrogen Production Using Machine Learning](https://www.sciencedirect.com/science/article/pii/S095758202401139X?via%3Dihub) (16 September 2024)
 - Paper on modeling hemodynamics using PINNs selected as the Cover Article of [Nexus Volume 1, Issue 2](https://www.cell.com/nexus/issue?pii=S2950-1601(24)X0003-0#fullCover) (19 June 2024)
 <p align="center">
