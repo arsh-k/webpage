@@ -1,4 +1,37 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  (function() {
+    var toggle = document.getElementById('dark-mode-toggle');
+    if (!toggle) return;
+
+    function getTheme() {
+      return document.documentElement.getAttribute('data-theme') || 'light';
+    }
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+      toggle.textContent = theme === 'dark' ? '☀️' : '🌙';
+      toggle.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+    }
+
+    // Sync icon with current theme on load
+    applyTheme(getTheme());
+
+    toggle.addEventListener('click', function() {
+      applyTheme(getTheme() === 'dark' ? 'light' : 'dark');
+    });
+
+    // Keyboard support for span[role=button]
+    toggle.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        applyTheme(getTheme() === 'dark' ? 'light' : 'dark');
+      }
+    });
+  })();
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
