@@ -267,3 +267,130 @@
     }
   }
 }
+
+
+/* ==========================================================================
+   Centered profile card
+   Mimics the clean academic-site style: large photo → name → bio → icon links
+   ========================================================================== */
+
+#main > .sidebar.sticky {
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    position: relative !important;
+    height: auto !important;
+    overflow-y: visible !important;
+    padding-top: 2.5em;
+    padding-bottom: 2em;
+    float: none !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin-bottom: 2em;
+    text-align: center;
+
+    /* Vertical stack, everything centered */
+    [itemscope] {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.6em;
+    }
+
+    /* Large circular photo with a soft ring */
+    .author__avatar {
+      display: block;
+      flex-shrink: 0;
+      text-align: center;
+
+      img {
+        width: 150px;
+        height: 150px;
+        margin: 0 auto;
+        display: block;
+        border: 4px solid $border-color;
+        box-shadow: 0 2px 12px rgba(0, 0, 0, 0.10);
+      }
+    }
+
+    /* Name + bio — centered, auto-width */
+    .author__content {
+      display: block;
+      flex: 0 0 auto;
+      width: auto !important;
+      max-width: fit-content !important;
+      min-width: 0;
+      text-align: center;
+      padding: 0;
+      margin-top: 0.4em;
+    }
+
+    .author__name {
+      text-align: center;
+      margin-top: 0;
+      margin-bottom: 0.2em;
+      font-size: $type-size-3;
+    }
+
+    .author__bio {
+      text-align: center;
+      margin: 0;
+      color: $gray;
+      font-size: $type-size-6;
+    }
+
+    /* Icon-only links — centered row, no text, no borders */
+    .author__urls-wrapper {
+      display: block;
+      flex: 0 0 auto;
+      margin-top: 0.5em;
+
+      button { display: none; }
+
+      .author__urls {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 0.4em;
+        position: static;
+        padding: 0;
+        border: none;
+        background: transparent;
+        box-shadow: none;
+        margin-top: 0;
+
+        &:before, &:after { display: none; }
+
+        /* Hide non-link items (location, employer — .author__desktop with no <a>) */
+        li.author__desktop { display: none !important; }
+
+        li {
+          display: inline-flex;
+          align-items: center;
+          white-space: nowrap;
+
+          a {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 2.4rem;
+            height: 2.4rem;
+            border-radius: 50%;
+            font-size: 0;        /* hides link text */
+            margin-bottom: 0;
+            padding: 0;
+            transition: color 0.2s ease, background 0.2s ease;
+
+            &:hover {
+              background: $lighter-gray;
+              text-decoration: none;
+            }
+
+            i {
+              font-size: 1.3rem;
+            }
+          }
+        }
+      }
+    }
+  }
+}

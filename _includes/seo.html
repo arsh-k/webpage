@@ -7,7 +7,7 @@
 {% assign seo_url = seo_url | default: site.github.url %}
 
 {% if page.title and page.url != "/" %}
-  {% assign seo_title = "🌊 " | append: page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+  {% assign seo_title = "🌊  " | append: page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
 
 {% if seo_title %}
@@ -18,7 +18,7 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-{% assign default_tab_title = "🌊 " | append: site.title %}
+{% assign default_tab_title = "🌊  " | append: site.title %}
 <title>{{ seo_title | default: default_tab_title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
